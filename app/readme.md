@@ -36,5 +36,7 @@ Initiates the redaction process and returns the redacted document for download.
 Flask: Web framework for Python.
 
 fpdf: PDF generation library for Python.
+
+## Output
 [redacted_document.pdf](https://github.com/zohaibshahzadkhan/Redacted-Document-Download/files/13448632/redacted_document.pdf)
 
